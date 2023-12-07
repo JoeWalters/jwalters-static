@@ -3,5 +3,6 @@
       "content-security-policy": "default-src https: 'unsafe-eval' 'unsafe-inline'; object-src 'none'",
       "Referrer-Policy":"no-referrer",
       "Permissions-Policy": "autoplay=()"
+      "X-Frame-Options": "SAMEORIGIN",
   }
 }
